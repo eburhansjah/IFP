@@ -14,4 +14,9 @@ The app displays the image/modified image on the screen.
 - XingLin He = hxl@bu.edu
 
 ## Features of the app
+### Design Decisions
+
 ### I. Upload Image & Upload Text Button
+For uploading an image that is based on a text file, it must be formatted particularly like the following in order to be converted into an image:
+
+<img width="616" alt="upload_img_txt" src="https://github.com/eburhansjah/IFP/assets/130926828/115e4854-f293-4cba-a92a-3a57e9b3b2c5">
