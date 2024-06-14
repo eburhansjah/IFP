@@ -36,6 +36,22 @@ Zero GB is a feature that recolors the uploaded image by zero-ing out all green 
 
 <img width="616" alt="upload_img_txt" src="https://github.com/eburhansjah/IFP/assets/130926828/734a07e2-25fd-46a7-b2ed-c6a58b08eb10">
 
+### III. Resizing
+When resizing an image, user can specify the image's height, width. It is important to note that it will appear blurred. This is because shrunken image has been compressed and stretched to fit the dimensions of the imageView.
+
+<img width="620" alt="resize" src="https://github.com/eburhansjah/IFP/assets/130926828/f79797f2-02cf-485d-aa1e-3e80636cd260">
+
+### IV. Rotating 
+<img width="704" alt="rotate" src="https://github.com/eburhansjah/IFP/assets/130926828/672c2386-a706-4d58-89b8-ad00be72013c">
+
+### V. Blurring
+<img width="758" alt="blur" src="https://github.com/eburhansjah/IFP/assets/130926828/8290f4a2-f3bb-4763-a41d-968cf229344d">
+
+### VI. Grayscaling
+<img width="698" alt="gray_scale" src="https://github.com/eburhansjah/IFP/assets/130926828/e1ee5b51-f369-41a0-9f51-e8071dadd952">
+
+### VII. 
+
 
 
 
