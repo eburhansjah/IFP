@@ -14,6 +14,12 @@ The app displays the image/modified image on the screen.
 - XingLin He = hxl@bu.edu
 
 # Usage
+1) Clone/download repository
+2) Install and open AndroidStudio
+3) Open cloned repository in AndroidStudio
+4) Allow build.gradle to complete and configure the device to be Pixel 2A API 30 (Create Device > Pixel 2 > R).
+5) Click on the run button to see the App in action.
+
 
 ## Features of the app in action
 ### Design decisions
@@ -50,7 +56,14 @@ When resizing an image, user can specify the image's height, width. It is import
 ### VI. Grayscaling
 <img width="698" alt="gray_scale" src="https://github.com/eburhansjah/IFP/assets/130926828/e1ee5b51-f369-41a0-9f51-e8071dadd952">
 
-### VII. 
+### VII. Recoloring
+It is important to note that values entered is in the range of [0, 100]
+<img width="963" alt="recolor" src="https://github.com/eburhansjah/IFP/assets/130926828/1d60f73b-7c88-407b-a27e-4610404b68f9">
+
+### VIII. Generating a histogram
+<img width="733" alt="histogram" src="https://github.com/eburhansjah/IFP/assets/130926828/b01d1411-372a-4db3-a5bc-b636c95ccb0b">
+
+
 
 
 
